@@ -1,0 +1,8 @@
+{
+	"appId": "com.edutrack.app",
+	"appName": "EduTrack",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": true
+	}
+}
